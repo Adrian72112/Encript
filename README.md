@@ -1,3 +1,3 @@
 # Encript
-Encriptar archivos de teto con Visual Basic .Net
+Encriptar archivos de texto con Visual Basic .Net
 Read
